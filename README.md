@@ -41,5 +41,5 @@ let document = table.findFirst({
 ```
 
 > [!NOTE]
-> This project is not in any way related to [PrismarineDB](https://github.com/Azalea-Essentials/PrismarineDB). It just has a similar name
+> This project is not in any way related to [PrismarineDB](https://github.com/Azalea-Essentials/PrismarineDB). It just has a similar coding thing.
 > 
